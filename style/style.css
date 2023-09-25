@@ -99,7 +99,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .idea-5 span,
@@ -109,7 +109,7 @@ body {
 }
 
 .idea-6 span {
-  font-size: 5rem;
+  font-size: 4rem;
 }
 
 .six {
@@ -161,11 +161,11 @@ body {
   z-index: -1;
 }
 
-/* .eight svg:nth-child(1) {
+.eight svg:nth-child(1) {
   top: 7vh;
   left: 5vw;
   fill: #bd6ecf;
-} */
+}
 
 .eight svg:nth-child(2) {
   top: 23vh;
